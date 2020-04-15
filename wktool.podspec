@@ -24,8 +24,8 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/kirk-w/wktool'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'kirk-w' => 'wangke@adinnet.cn' }
-  s.source           = { :git => 'https://github.com/kirk-w/wktool.git', :tag => s.version.to_s }
+  s.author           = { 'kirk-w' => '390877060@qq.com' }
+  s.source           = { :git => 'https://github.com/390877060/wktool.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
